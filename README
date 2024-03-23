@@ -1,0 +1,13 @@
+neo bike
+========
+
+ebike using a neo brushless motor
+23-24 kls cornerstone (prototype I)
+
+roadmap
+
+- [ ] throttle control
+- [ ] brake activated killswitch
+- [ ] frc --> standard component transition
+- [ ] power levelling/monitoring
+- [ ] battery management/monitoring
